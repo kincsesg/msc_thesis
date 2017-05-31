@@ -1,5 +1,8 @@
 # Reinforcement Learning Based on Visual Information
 This is the repository of my Master's thesis document at the Budapest University of Technology and Economics, titled *Reinforcement Learning Based on Visual Information*.
+
+[PDF document](https://github.com/kincsesg/msc_thesis/blob/master/kincsesg_thesis_2017.pdf)
+
 ## Abstract
 Machine learning, including reinforcement learning plays an important role in our every-day life, sometimes without us even noticing it. Soon, our homes can fully manage them-selves, our cars can drive to their destinations without any human interaction and most simple human tasks will be done by autonomous robots. AI algorithms do fraud detection and risk analysis, can collect the most important news for us based on our preferences and interests, make recommendations for us when browsing Netflix or Amazon, and can monitor our property or systems when we can not. The list is far too long to be fully introduced here, but these few examples show that machine learning is currently a very hot topic, and it is in the focus of many researchers and market participants.
 
